@@ -12,5 +12,11 @@ now a code block:
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+A task list
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 ###### This is a footer done with a level 6 header
